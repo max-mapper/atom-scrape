@@ -1,0 +1,299 @@
+/*
+    pesticide v0.1.0 . @mrmrs . MIT
+*/
+body:hover {
+  outline: 1px solid #2980b9 !important; }
+
+article:hover {
+  outline: 1px solid #3498db !important; }
+
+nav:hover {
+  outline: 1px solid #0088c3 !important; }
+
+aside:hover {
+  outline: 1px solid #33a0ce !important; }
+
+section:hover {
+  outline: 1px solid #66b8da !important; }
+
+header:hover {
+  outline: 1px solid #99cfe7 !important; }
+
+footer:hover {
+  outline: 1px solid #cce7f3 !important; }
+
+h1:hover {
+  outline: 1px solid #162544 !important; }
+
+h2:hover {
+  outline: 1px solid #314e6e !important; }
+
+h3:hover {
+  outline: 1px solid #3e5e85 !important; }
+
+h4:hover {
+  outline: 1px solid #449baf !important; }
+
+h5:hover {
+  outline: 1px solid #c7d1cb !important; }
+
+h6:hover {
+  outline: 1px solid #4371d0 !important; }
+
+main:hover {
+  outline: 1px solid #2f4f90 !important; }
+
+address:hover {
+  outline: 1px solid #1a2c51 !important; }
+
+div:hover {
+  outline: 1px solid #036cdb !important; }
+
+p:hover {
+  outline: 1px solid #ac050b !important; }
+
+hr:hover {
+  outline: 1px solid #ff063f !important; }
+
+pre:hover {
+  outline: 1px solid #850440 !important; }
+
+blockquote:hover {
+  outline: 1px solid #f1b8e7 !important; }
+
+ol:hover {
+  outline: 1px solid #ff050c !important; }
+
+ul:hover {
+  outline: 1px solid #d90416 !important; }
+
+li:hover {
+  outline: 1px solid #d90416 !important; }
+
+dl:hover {
+  outline: 1px solid #fd3427 !important; }
+
+dt:hover {
+  outline: 1px solid #ff0043 !important; }
+
+dd:hover {
+  outline: 1px solid #e80174 !important; }
+
+figure:hover {
+  outline: 1px solid #ff00bb !important; }
+
+figcaption:hover {
+  outline: 1px solid #bf0032 !important; }
+
+table:hover {
+  outline: 1px solid #00cc99 !important; }
+
+caption:hover {
+  outline: 1px solid #37ffc4 !important; }
+
+thead:hover {
+  outline: 1px solid #98daca !important; }
+
+tbody:hover {
+  outline: 1px solid #64a7a0 !important; }
+
+tfoot:hover {
+  outline: 1px solid #22746b !important; }
+
+tr:hover {
+  outline: 1px solid #86c0b2 !important; }
+
+th:hover {
+  outline: 1px solid #a1e7d6 !important; }
+
+td:hover {
+  outline: 1px solid #3f5a54 !important; }
+
+col:hover {
+  outline: 1px solid #6c9a8f !important; }
+
+colgroup:hover {
+  outline: 1px solid #6c9a9d !important; }
+
+button:hover {
+  outline: 1px solid #da8301 !important; }
+
+datalist:hover {
+  outline: 1px solid #c06000 !important; }
+
+fieldset:hover {
+  outline: 1px solid #d95100 !important; }
+
+form:hover {
+  outline: 1px solid #d23600 !important; }
+
+input:hover {
+  outline: 1px solid #fca600 !important; }
+
+keygen:hover {
+  outline: 1px solid #b31e00 !important; }
+
+label:hover {
+  outline: 1px solid #ee8900 !important; }
+
+legend:hover {
+  outline: 1px solid #de6d00 !important; }
+
+meter:hover {
+  outline: 1px solid #e8630c !important; }
+
+optgroup:hover {
+  outline: 1px solid #b33600 !important; }
+
+option:hover {
+  outline: 1px solid #ff8a00 !important; }
+
+output:hover {
+  outline: 1px solid #ff9619 !important; }
+
+progress:hover {
+  outline: 1px solid #e57c00 !important; }
+
+select:hover {
+  outline: 1px solid #e26e0f !important; }
+
+textarea:hover {
+  outline: 1px solid #cc5400 !important; }
+
+details:hover {
+  outline: 1px solid #33848f !important; }
+
+summary:hover {
+  outline: 1px solid #60a1a6 !important; }
+
+command:hover {
+  outline: 1px solid #438da1 !important; }
+
+menu:hover {
+  outline: 1px solid #449da6 !important; }
+
+del:hover {
+  outline: 1px solid #bf0000 !important; }
+
+ins:hover {
+  outline: 1px solid #400000 !important; }
+
+img:hover {
+  outline: 1px solid #22746b !important; }
+
+iframe:hover {
+  outline: 1px solid #64a7a0 !important; }
+
+embed:hover {
+  outline: 1px solid #98daca !important; }
+
+object:hover {
+  outline: 1px solid #00cc99 !important; }
+
+param:hover {
+  outline: 1px solid #37ffc4 !important; }
+
+video:hover {
+  outline: 1px solid #6ee866 !important; }
+
+audio:hover {
+  outline: 1px solid #027353 !important; }
+
+source:hover {
+  outline: 1px solid #012426 !important; }
+
+canvas:hover {
+  outline: 1px solid #a2f570 !important; }
+
+track:hover {
+  outline: 1px solid #59a600 !important; }
+
+map:hover {
+  outline: 1px solid #7be500 !important; }
+
+area:hover {
+  outline: 1px solid #305900 !important; }
+
+a:hover {
+  outline: 1px solid #ff62ab !important; }
+
+em:hover {
+  outline: 1px solid #800b41 !important; }
+
+strong:hover {
+  outline: 1px solid #ff1583 !important; }
+
+i:hover {
+  outline: 1px solid #803156 !important; }
+
+b:hover {
+  outline: 1px solid #cc1169 !important; }
+
+u:hover {
+  outline: 1px solid #ff0430 !important; }
+
+s:hover {
+  outline: 1px solid #f805e3 !important; }
+
+small:hover {
+  outline: 1px solid #d107b2 !important; }
+
+abbr:hover {
+  outline: 1px solid #4a0263 !important; }
+
+q:hover {
+  outline: 1px solid #240018 !important; }
+
+cite:hover {
+  outline: 1px solid #64003c !important; }
+
+dfn:hover {
+  outline: 1px solid #b4005a !important; }
+
+sub:hover {
+  outline: 1px solid #dba0c8 !important; }
+
+sup:hover {
+  outline: 1px solid #cc0256 !important; }
+
+time:hover {
+  outline: 1px solid #d6606d !important; }
+
+code:hover {
+  outline: 1px solid #e04251 !important; }
+
+kbd:hover {
+  outline: 1px solid #5e001f !important; }
+
+samp:hover {
+  outline: 1px solid #9c0033 !important; }
+
+var:hover {
+  outline: 1px solid #d90047 !important; }
+
+mark:hover {
+  outline: 1px solid #ff0053 !important; }
+
+bdi:hover {
+  outline: 1px solid #bf3668 !important; }
+
+bdo:hover {
+  outline: 1px solid #6f1400 !important; }
+
+ruby:hover {
+  outline: 1px solid #ff7b93 !important; }
+
+rt:hover {
+  outline: 1px solid #ff2f54 !important; }
+
+rp:hover {
+  outline: 1px solid #803e49 !important; }
+
+span:hover {
+  outline: 1px solid #cc2643 !important; }
+
+br:hover {
+  outline: 1px solid #db687d !important; }
+
+wbr:hover {
+  outline: 1px solid #db175b !important; }

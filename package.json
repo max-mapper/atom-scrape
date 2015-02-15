@@ -1,0 +1,25 @@
+{
+  "name": "atom-scrape",
+  "version": "1.0.0",
+  "description": "experimental scraping app",
+  "main": "index.js",
+  "scripts": {
+    "start": "atom-shell ."
+  },
+  "author": "max ogden",
+  "license": "BSD",
+  "devDependencies": {
+    "atom-shell": "^0.21.2"
+  },
+  "dependencies": {
+    "pesticide": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxogden/atom-scrape.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxogden/atom-scrape/issues"
+  },
+  "homepage": "https://github.com/maxogden/atom-scrape"
+}
